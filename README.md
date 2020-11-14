@@ -1,5 +1,7 @@
-# anxiety_attack_chatbot
+# Anxiety Attack Chatbot
 Got anxiety? Are you the only one (apart from your therapist) who knows what can help you get through an axiety attack? Here I explain how to build your own chatbot to help you with an axiety attack. Lord knows, I've had my fair share of them and I know things like watching my favourite clip of Pinnochio from Shrek, or figuring out what the trigger is, can be really helpful to get me through.
+
+Try it out: https://webchat.snatchbot.me/2b1eaa89b7b96ad61c5d47fdbdd160eb1fbc80eca25da52d32e1da0678479d5b
 
 I built this chatbot using the SnatchBot platform. If you want to build your own sophisticated chatbots, look up approaches here on GitHub.
 
