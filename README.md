@@ -12,3 +12,4 @@ I built this chatbot using the SnatchBot platform. If you want to build your own
 
 Also, if your anxiety gets really bad, talk with a therapist (BetterHelp or Talkspace) and get proper help from experts who can help you the best. This was just a side project I built, to lift my spirits and get to the root of what was causing me to freak out!
 
+![](https://github.com/ElleFife/anxiety_attack_chatbot/blob/main/anxiety_attack_chatbot_logic_map.png)
